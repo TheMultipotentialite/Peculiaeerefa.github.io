@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: WORDs and ARTs
-tab_title: WORDs and ARTs home page #This text shows up on the browser tab
-email:
-description: Original comic series by the Mushroom club from Canada
+title: Peculiar Prime
+tab_title: Peculiar Prime #This text shows up on the browser tab
+email: 
+description: Original comic series by two peeps
 url: "https://peahatlanding.github.io/Plain-Webcomic/" # the base hostname & protocol for your site
 
 # Comic Social Media
-twitter_username: http://twitter.com/peahat
-tumblr_username: http://peahat.tumblr.com
-patreon_username: peahat
+twitter_username: http://twitter.com/
+tumblr_username: http://.tumblr.com
+patreon_username: 
 
 # Author Social Media
 author_twitter_username:
